@@ -1,0 +1,11 @@
+numpy>=1.20
+scipy
+obspy
+tslearn
+h5py
+scikit-learn
+matplotlib
+tensorflow_addons
+tensorflow
+tqdm
+pandas
