@@ -1,5 +1,5 @@
 # Stable Diffusion for Generation of Earthquakes
-Project for UKEN 2022. 
+Project done at NORSAR. 
 Using stable diffusion to generate events from metadata. Can also be used in reverse to denoise waveforms (not done yet, just an idea). 
 
 # Files 
